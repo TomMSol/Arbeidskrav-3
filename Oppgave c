@@ -13,5 +13,5 @@ min_varighet = np.min(varighet)
 max_varighet = np.max(varighet)
 
 # printer ut res
-print(f"🐇 Minste samtaletid i uke 24 var: {min_varighet} sekunder")
-print(f"🐇 Lengste samtaletid i uke 24 var: {max_varighet} sekunder")
+print(f" Minste samtaletid i uke 24 var: {min_varighet} sekunder")
+print(f" Lengste samtaletid i uke 24 var: {max_varighet} sekunder")
